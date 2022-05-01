@@ -1,29 +1,37 @@
-# About Me!
+<div align="center">
+<h3>About Me</h3>
+I'm Curwels (Hasan Erdem), I'm 17 years old, I have been dealing with software for about 5 years.
+<h3>Contact İnformation</h3>
+<a href="https://discord.com/users/267373400022843393" target"blank_"><img src="https://img.shields.io/badge/Curwels%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://instagram.com/haasanerdem" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCouorHGsUWdkk0lf39aKSFQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/Curwels" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-- I'm Curwels (Hasan Erdem), I'm 17 years old, I have been dealing with software for about 5 years.
 
-- You Can Browse My Website: https://bencurwels.cf
+<div align="center">
+<h3>Languages and Tools</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Curwels&label=Visitor%20Counts&color=131313" alt="Curwels" /><br>
-<h3>🌟 My Social Media Accounts!</h3>
-<a href="https://twitter.com/haasanerdem" target="_blank">
-<img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-<a href="https://instagram.com/haasanerdem" target="_blank">
-<img align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-EB1DD6?style=flat-square&logo=instagram&logoColor=white" /></a> 
-<a href="https://discord.com/users/267373400022843393" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a> 
-<a href="https://steamcommunity.com/id/hasanerdem" target="_blank">
-<img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white" /></a><br>
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-111111?style=for-the-badge&logo=CPlusPlus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Php-111111?style=for-the-badge&logo=Php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
 
-<h3>🧑🏻‍💻 Languages I use:</h3>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-c42b6d?style=flat-square&logo=javascript&logoColor=white" /> 
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/-Php-FF0000?style=flat-square&logo=Php&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/-C++-2b59c4?style=flat-square&logo=CPlusPlus&logoColor=white" />
- 
- # My Github Statistics
- <div >
-   <a href="https://github.com/Curwels" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Curwels&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<div align="center">
+<h3>Github Stats</h3>
+  <div><img src="https://komarev.com/ghpvc/?username=Curwels&&label=PROFILE+VIEWS&color=grey"/></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Curwels&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curwels&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
+</a>
+
+<div align="center">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/267373400022843393" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
