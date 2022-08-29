@@ -2,7 +2,7 @@
 <h3>About Me</h3>
 I'm Thendra (Hasan Erdem), I'm 17 years old, I have been dealing with software for about 5 years.
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/267373400022843393" target"_blank"><img src="https://img.shields.io/badge/Curwels%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/267373400022843393" target"_blank"><img src="https://img.shields.io/badge/Thendra%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/haasanerdem" target"_blank"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target"_blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCouorHGsUWdkk0lf39aKSFQ" target"_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
