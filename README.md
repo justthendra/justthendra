@@ -35,3 +35,4 @@ I'm Thendra (Hasan Erdem), I'm 17 years old, I have been dealing with software f
       <img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
+a
