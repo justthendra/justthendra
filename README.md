@@ -38,8 +38,6 @@ I'm Thendra (Hasan Erdem), I'm 17 years old, I have been dealing with software f
 </div>
 
 <div align="center">
-<h3>Discord Activity</h3>
-   <a href="https://discord.com/users/267373400022843393" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
-   </a>
+<h3>My Discord Server</h3>
+   <a href="https://discord.gg/JWx8qJ7B8W"><img src="https://invidget.switchblade.xyz/JWx8qJ7B8W"></a>
 </div>
