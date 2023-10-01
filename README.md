@@ -23,8 +23,3 @@ I'm Thendra (Hasan Erdem), I'm 18 years old, I have been dealing with software f
 <div align="center">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 </div>
-
-<div align="center">
-<h3>My Discord Server</h3>
-   <a href="https://discord.gg/JWx8qJ7B8W"><img src="https://invidget.switchblade.xyz/JWx8qJ7B8W"></a>
-</div>
