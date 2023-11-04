@@ -21,5 +21,7 @@ I'm Thendra (Hasan Erdem), I'm 18 years old, I have been dealing with software f
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justthendra&layout=compact&theme=nord&hide_border=false&bg_color=111111&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a><br><br>
 <div align="center">
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+<div align="center">
+<a href="https://discord.com/users/267373400022843393"><img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?borderRadius=25px&bg=#282a36"></a>
+ 
 </div>
