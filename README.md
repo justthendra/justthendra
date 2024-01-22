@@ -16,8 +16,9 @@ I'm Thendra (Hasan Erdem), I'm 18 years old, I have been dealing with software f
 
 <div align="center">
 <h3>Github Stats</h3>
-  <div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></div><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=justthendra&count_private=true&hide_border=false&show_icons=true&include_all_commits=true&bg_color=111111&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">&nbsp;
+  <div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></div>
+  <h3> Technologies I Use</h3>
+  <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justthendra&layout=compact&theme=nord&hide_border=false&bg_color=111111&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
 </a><br><br>
 <div align="center">
