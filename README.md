@@ -18,7 +18,7 @@ I'm Thendra (Hasan Erdem), I'm 18 years old, I have been dealing with software f
 <h3>Github Stats</h3>
 <div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></div>
 <h3> Technologies I Use</h3>
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br><br>
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br>
 <br>
 <h3>Discord Presence</h3>
 <div align="center">
