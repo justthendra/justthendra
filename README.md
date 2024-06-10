@@ -5,7 +5,9 @@
 
 <div align="center">
 <h3>About Me</h3>
-I'm Thendra (Hasan Erdem), I'm 19 years old, I have been dealing with software for about 7 years.
+I'm Hasan and 19 years old. I'm a Full-stack Developer,<br/>
+I have been working with software for about 7 years.<br/>
+I'm trying to go further by learning new languages.
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/267373400022843393" target"_blank"><img src="https://img.shields.io/badge/Thendra%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/heythendra" target"_blank"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
