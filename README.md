@@ -18,12 +18,14 @@ I'm trying to go further by learning new languages.
 
 <div align="center">
 <h3>Github Stats</h3>
-<div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></div>
+<div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justthendra&theme=algolia&show_icons=true"/>
+</div>
+  
 <h3> Technologies I Use</h3>
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br>
 <br>
 <div>
-<h3>My Github Stats & Discord Presence</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=justthendra&theme=algolia&show_icons=true"/>
-<a align="right" href="https://discord.com/users/267373400022843393"><img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?borderRadius=25px&bg=#282a36"></a>
+<h3>Discord Presence</h3>
+<a align="center" href="https://discord.com/users/267373400022843393"><img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?borderRadius=25px&bg=#282a36"></a>
 </div>
