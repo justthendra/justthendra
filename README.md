@@ -18,7 +18,7 @@ I'm trying to go further by learning new languages.
 
 <div align="center">
 <h3>Github Stats</h3>
-<div><img src="https://komarev.com/ghpvc/?username=justthendrathendra&&label=PROFILE+VIEWS&color=111111"/></br></br>
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justthendra&theme=github_dark&show_icons=true"/>
 </div>
   
