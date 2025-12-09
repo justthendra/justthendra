@@ -6,7 +6,7 @@
 <div align="center">
 <h3>About Me</h3>
 I'm Hasan and 20 years old. I'm a Full-stack Developer,<br/>
-I have been working with software for about 7 years.<br/>
+I have been working with software for about 8 years.<br/>
 I'm trying to go further by learning new languages.
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/267373400022843393" target"_blank"><img src="https://img.shields.io/badge/Thendra%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -14,12 +14,6 @@ I'm trying to go further by learning new languages.
 <a href="https://open.spotify.com/user/314c4qgsafgrqtpd6tnfandxnkzq" target"_blank"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCouorHGsUWdkk0lf39aKSFQ" target"_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://steamcommunity.com/hasanerdem" target"_blank"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-</div>
-
-<div align="center">
-<h3>Github Stats</h3>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justthendra&theme=github_dark&show_icons=true"/>
 </div>
   
 <h3> Technologies I Use</h3>
