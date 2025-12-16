@@ -15,11 +15,12 @@ I'm trying to go further by learning new languages.
 <a href="https://www.youtube.com/channel/UCouorHGsUWdkk0lf39aKSFQ" target"_blank"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://steamcommunity.com/hasanerdem" target"_blank"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
-  
+<div align="center">
 <h3> Technologies I Use</h3>
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,discord,dotnet,kotlin,lua,ps,perl,tailwind,bootstrap,react,nextjs,cpp,cs,nodejs,express,python,mysql,mongodb&perline=7"><br>
 <br>
 <div>
 <h3>Discord Presence</h3>
 <a align="center" href="https://discord.com/users/267373400022843393"><img src="https://lanyard-profile-readme.vercel.app/api/267373400022843393?borderRadius=25px&bg=#282a36"></a>
+</div>
 </div>
